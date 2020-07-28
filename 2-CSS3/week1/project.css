@@ -1,0 +1,14 @@
+h1{
+  font-family: sans-serif;
+  background: #B3B3B3;
+  font-size: 150%;
+}
+header{
+  text-align: center;
+}
+details{
+  font-style: italic;
+}
+summary{
+  font-style: normal;
+}

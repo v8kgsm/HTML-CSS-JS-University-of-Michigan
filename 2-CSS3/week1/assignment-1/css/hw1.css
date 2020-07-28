@@ -1,0 +1,29 @@
+h1{
+  font-family: "Times New Roman";
+  background: #B3B3B3;
+  font-size: 150%;
+  text-align: center;
+  color : #FFFFFF;
+  text-transform:  uppercase;
+}
+header{
+  background: #B3B3B3;
+  font-family: sans-serif;
+}
+a{
+  display : inline-block;
+  color : #000000;
+  background: #C0C0C0;
+  
+}
+h2{
+  color : #000099;
+  text-transform:  uppercase;
+}
+section{
+  background-color:#606060;
+}
+img
+{
+	display: none;
+}
